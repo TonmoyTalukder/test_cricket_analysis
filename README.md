@@ -2,7 +2,6 @@
 <br>**Data Analysis with Python**
 
 Objectives:
-
 <br>Displaying the first 10 rows of the dataframe.
 <br>Explaining the meaning of each column.
 <br>Finding the numbers of rows and columns in the dataframe.
