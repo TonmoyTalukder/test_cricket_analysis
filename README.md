@@ -5,7 +5,7 @@
 <br>**Author: Tonmoy Talukder**
 <br>CS Udergrad, AUST, Dhaka, Bangladesh
 
-#### **Objectives:**
+### **Objectives:**
 
 > <br>Displaying the first 10 rows of the dataframe.<br>
 > <br>Explaining the meaning of each column.<br>
@@ -16,13 +16,13 @@
 > <br>Remove a column from the dataframe.<br>
 > <br>Splitting columns.<br>
 
-<br>**Analysis in the Data Set:**
-<br>Players played for ICC
-<br>Number of the different countries are present in the dataset
-<br>Player(s) had played for the longest period of time
-<br>Player(s) had played for the shortest period of time
-<br>The player had the lowest economy rate
-<br>The player had the lowest strike rate
-<br>The player had the lowest bowling average
+#### **Analysis in the Data Set:**
+<br>Players played for ICC<br>
+<br>Number of the different countries are present in the dataset<br>
+<br>Player(s) had played for the longest period of time<br>
+<br>Player(s) had played for the shortest period of time<br>
+<br>The player had the lowest economy rate<br>
+<br>The player had the lowest strike rate<br>
+<br>The player had the lowest bowling average<br>
 
 **Data Source:** https://stats.espncricinfo.com/ci/content/records/223646.html
