@@ -17,13 +17,13 @@
 > <br>Splitting columns.<br>
 
 #### **Analysis in the Data Set:**
-<br>Players played for ICC<br>
-<br>Number of the different countries are present in the dataset<br>
-<br>Player(s) had played for the longest period of time<br>
-<br>Player(s) had played for the shortest period of time<br>
-<br>The player had the lowest economy rate<br>
-<br>The player had the lowest strike rate<br>
-<br>The player had the lowest bowling average<br>
+> <br>Players played for ICC<br>
+> <br>Number of the different countries are present in the dataset<br>
+> <br>Player(s) had played for the longest period of time<br>
+> <br>Player(s) had played for the shortest period of time<br>
+> <br>The player had the lowest economy rate<br>
+> <br>The player had the lowest strike rate<br>
+> <br>The player had the lowest bowling average<br>
 
 ### Data Source:
 https://stats.espncricinfo.com/ci/content/records/223646.html
