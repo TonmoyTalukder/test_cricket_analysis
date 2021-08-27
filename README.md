@@ -25,4 +25,5 @@
 <br>The player had the lowest strike rate<br>
 <br>The player had the lowest bowling average<br>
 
-**Data Source:** https://stats.espncricinfo.com/ci/content/records/223646.html
+### **Data Source:
+<br> https://stats.espncricinfo.com/ci/content/records/223646.html
